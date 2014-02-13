@@ -10,5 +10,5 @@
 
 Text enter_/text.enter "haha loser"_%23 battery.321655 21563
 
-%clean
+%clean.source.open-java_3265345684562156.delte/command@%35_
 
